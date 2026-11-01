@@ -1,0 +1,19 @@
+{
+    "version": "2.11.0",
+    "description": "An AI-powered tool to clean manga panels",
+    "homepage": "https://github.com/VoxelCubes/PanelCleaner",
+    "license": "GPL-3.0",
+    "url": "https://github.com/VoxelCubes/PanelCleaner/releases/download/2.11.0/PanelCleaner-windows.zip",
+    "hash": "4be7926ce4009368d40785fdb0e5d07f354922119efeb8d58cbe7b0654638ff7",
+    "bin": "pcleaner-gui.exe",
+    "shortcuts": [
+        [
+            "pcleaner-gui.exe",
+            "Panel Cleaner"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/VoxelCubes/PanelCleaner/releases/download/$version/PanelCleaner-windows.zip"
+    }
+}
