@@ -5,10 +5,10 @@
     "license": "GPL-3.0",
     "url": "https://github.com/VoxelCubes/PanelCleaner/releases/download/2.11.11/PanelCleaner-Windows-2.11.4_unzip_me.zip",
     "hash": "58c1968d2f277ff694f4a43ff1916f7032627f51b3e92f35cb3fef28960cb12c",
-    "bin": "pcleaner-gui.exe",
+    "bin": "PanelCleaner.exe",
     "shortcuts": [
         [
-            "pcleaner-gui.exe",
+            "PanelCleaner.exe",
             "Panel Cleaner"
         ]
     ],
