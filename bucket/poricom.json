@@ -5,10 +5,10 @@
     "license": "GPL-3.0",
     "url": "https://github.com/blueaxis/Poricom/releases/download/v1.2.0/Poricom-v1.2.0-offline.7z",
     "hash": "ec3484e60eb86bf02582f79542cf2f224c91d09b28e573983154b2140d6b6733",
-    "bin": "Poricom.exe",
+    "bin": "app/Poricom.exe",
     "shortcuts": [
         [
-            "Poricom.exe",
+            "app/Poricom.exe",
             "Poricom"
         ]
     ],
