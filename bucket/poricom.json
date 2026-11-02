@@ -1,0 +1,19 @@
+{
+    "version": "1.2.0",
+    "description": "Optical character recognition (OCR) desktop application for manga and comic images (Offline version)",
+    "homepage": "https://github.com/blueaxis/Poricom",
+    "license": "GPL-3.0",
+    "url": "https://github.com/blueaxis/Poricom/releases/download/v1.2.0/Poricom-v1.2.0-offline.7z",
+    "hash": "ec3484e60eb86bf02582f79542cf2f224c91d09b28e573983154b2140d6b6733",
+    "bin": "Poricom.exe",
+    "shortcuts": [
+        [
+            "Poricom.exe",
+            "Poricom"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/blueaxis/Poricom/releases/download/v$version/Poricom-v$version-offline.7z"
+    }
+}
